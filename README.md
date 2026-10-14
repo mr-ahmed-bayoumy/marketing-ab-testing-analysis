@@ -53,9 +53,6 @@ Prepared the data for analysis and checked its suitability for comparing the exp
 
 Explored the distribution of the experimental groups and examined conversion outcomes.
 
-<img width="620" height="566" alt="1" src="https://github.com/user-attachments/assets/73a67500-ae6b-430e-8fce-6d06a47ca21e" />
-
-
 ### 4. Conversion Rate Analysis
 
 Calculated and compared conversion rates for the Ad and PSA groups.
@@ -67,9 +64,6 @@ Defined the null and alternative hypotheses and established a significance level
 ### 6. Two-Proportion Z-Test
 
 Applied a two-proportion Z-test to determine whether the observed difference in conversion rates was statistically significant.
-
-<img width="569" height="577" alt="2" src="https://github.com/user-attachments/assets/c1d9b08c-5680-4c03-b748-ea06ae88c968" />
-
 
 ### 7. Conversion Lift & Confidence Interval
 
@@ -122,6 +116,10 @@ Visualizes the estimated conversion rate difference and its 95% confidence inter
 * The observed difference was statistically significant.
 * The relative conversion lift was 43.09%, indicating a substantial improvement relative to the PSA baseline.
 * Statistical significance alone does not establish campaign profitability.
+
+
+<img width="1536" height="1024" alt="A_B Testing Insights Dashboard" src="https://github.com/user-attachments/assets/77bd1f29-0bd7-400a-8726-4fb7f298693c" />
+
 
 ## Recommendations
 
