@@ -41,9 +41,13 @@ The key business question is:
 
 Examined the dataset structure, columns, data types, and basic statistics to understand the available information.
 
+<img width="620" height="566" alt="1" src="https://github.com/user-attachments/assets/0e7c2412-b341-4db9-9337-5d26b8f76ff3" />
+
 ### 2. Data Preparation
 
 Prepared the data for analysis and checked its suitability for comparing the experimental groups.
+
+<img width="569" height="577" alt="2" src="https://github.com/user-attachments/assets/54585c1f-d57a-49cb-a263-4dc9226609cd" />
 
 ### 3. Exploratory Data Analysis
 
